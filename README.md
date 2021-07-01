@@ -32,3 +32,9 @@ Hidden web gems and cool developer web tools.
 ## Code 🎅
 
 [**Android Arsenal**](https://android-arsenal.com/)
+
+
+## Music
+
+[Chord Player](https://www.onemotion.com/chord-player/)
+- Total customization

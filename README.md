@@ -24,6 +24,9 @@ Hidden web gems and cool developer web tools.
 [**Material Color Tool**](https://material.io/resources/color/#!/?view.left=0&view.right=0)  
 - View compatibility and design on mobile mockups
 
+[**Contrast Finder**](app.contrast-finder.org)
+- Input a background or foreground color and the app returns a list of the colors with the highest contrast ratio.
+- Sort results by ratio and distance (i.e., distance between the colors on the spectrum)
 
 ## Testing 🛠️
 

@@ -28,6 +28,13 @@ Hidden web gems and cool developer web tools.
 - Input a background or foreground color and the app returns a list of the colors with the highest contrast ratio.
 - Sort results by ratio and distance (i.e., distance between the colors on the spectrum)
 
+[**Material Design Palette Generator**](http://mcg.mbitson.com/)
+- Input Colors by Hex and export full palette  
+
+[**Material Design Theme Preview**](https://www.materialpalette.com/)
+- Preview different combinations of the predefined color themes  
+
+
 ## Design 
 
 [**Flex Layout Demos**](https://tburleson-layouts-demos.firebaseapp.com/#/docs)

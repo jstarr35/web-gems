@@ -52,3 +52,6 @@ Hidden web gems and cool developer web tools.
 
 [Chord Player](https://www.onemotion.com/chord-player/)
 - Total customization
+
+[Decomposer](https://studio.moises.ai/)
+- Auto separation of tracks from audio file
